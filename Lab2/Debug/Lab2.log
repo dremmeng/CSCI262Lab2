@@ -1,0 +1,3 @@
+﻿  mondrian.cpp
+C:\Users\Drewr\Documents\School\CSCI262\Lab2\Lab2\mondrian.cpp(121,15): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab2.vcxproj -> C:\Users\Drewr\Documents\School\CSCI262\Lab2\Debug\Lab2.exe
